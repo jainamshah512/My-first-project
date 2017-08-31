@@ -1,0 +1,7 @@
+Class Jainam
+{
+public static void main(String args[])
+  {
+System.out.println("My first java program");  //prints My first java program in output
+  }
+}
